@@ -9,6 +9,8 @@ A ``Hello World" Example of Artificial Intelligence in C/C++ and CUDA
 
 ## Learning in a perceptron:
   
-1. Initialization: Start with random weights and bias.
+1. **Initialization:** Start with random weights and bias.
 
-2. Prediction: For each input, compute the output using the current weights and bias.
+2. **Prediction:** For each input, compute the output using the current weights and bias.
+3. **Update:** Update the weights and bias.
+   
