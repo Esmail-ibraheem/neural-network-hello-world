@@ -2,5 +2,5 @@
 A ``Hello World" Example of Artificial Intelligence in C/C++ and CUDA
 
 ## Perceptron: 
-Perceptron is the simplest artificial neural network.
-It is a supervised learning algorithm.
+1. Perceptron is the simplest artificial neural network.
+2. It is a supervised learning algorithm.
